@@ -5,12 +5,12 @@ import shop from "../assets/shop.png"
 
 const slides = [
   {
-    image: battre,
+    image: tractor,
     title: "Genuine Tractor Parts",
     subtitle: "Reliable & Long Lasting",
   },
   {
-    image: tractor,
+    image: battre,
     title: "High Quality Batteries",
     subtitle: "For Tractors & Vehicles",
   },
